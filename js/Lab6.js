@@ -20,7 +20,7 @@
 
        var options2 = [
        //Two
-       ["Sharp bend, aute", "Rounded bend, acute", "Sharp bend, Right angle", "Sharp bend, obtuse angle"], //Meter of air
+       ["Sharp bend, acute", "Rounded bend, acute", "Sharp bend, Right angle", "Sharp bend, obtuse angle"], //Meter of air
        ["Loss in Resistance", "Loss in Velocity", "Loss in Pressure", "Loss in Quantity"], 
        ];
 
