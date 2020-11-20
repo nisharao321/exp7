@@ -21,7 +21,7 @@
        var options2 = [
        //Two
        ["Sharp bend, acute", "Rounded bend, acute", "Sharp bend, Right angle", "Sharp bend, obtuse angle"], //Meter of air
-       ["Loss in Resistance", "Loss in Velocity", "Loss in Pressure", "Loss in Quantity"], 
+       ["Loss in resistance", "Loss in velocity", "Loss in pressure", "Loss in quantity"], 
        ];
 
        function validateAnswer(qn, ans, left, top) {
