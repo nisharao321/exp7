@@ -197,7 +197,7 @@ var data6=[[1.565,0.417,0.417,0.834,0.712,0.209,0.133,0.113,0.068,0.141,0.464,3.
             setTimeout(function () {
               document.getElementById('as0').style.visibility = "visible";
               setTimeout(function () {
-                document.getElementById('can11').innerHTML = "The length between the two chosen points is = " + 3.73 + " m.";
+                document.getElementById('can11').innerHTML = "The length between the two chosen points is = " + 1.5 + " m.";
                 // setTimeout(function () {
                 //   document.getElementById('as4').style.visibility = "visible";
                   setTimeout(function () {
