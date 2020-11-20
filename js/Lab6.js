@@ -14,7 +14,7 @@
 
        var ca;
        var questions = [
-       "Which of the following have the largest equivalentlength of bends",
+       "Which of the following have the largest equivalent length of bends",
        "What is shock loss?"
        ];
 
