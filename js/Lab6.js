@@ -140,15 +140,15 @@ var data6=[[1.565,0.417,0.417,0.834,0.712,0.209,0.133,0.113,0.068,0.141,0.464,3.
       if (simsubscreennum===1)
           {
             myInt = setInterval(function(){ animatearrow(); }, 500);
-            animateArrowATPosition(30,78,20,270);
-            document.getElementById('m').style.visibility = "visible";
+            animateArrowATPosition(60,80,20,270);
+           // document.getElementById('m').style.visibility = "visible";
             document.getElementById("slider1").onclick=function() { step1(); };
           }
           if (simsubscreennum===2)
           {
             document.getElementById('Sample01').style.visibility="hidden";
             document.getElementById('arrows').style.display = "none";
-            document.getElementById('m').style.visibility = "hidden";
+           // document.getElementById('m').style.visibility = "hidden";
             document.getElementById('m11').style.display = "none";
             document.getElementById('m12').style.display= "none";
             document.getElementById('click1').style.visibility = "hidden";
@@ -446,7 +446,7 @@ var data6=[[1.565,0.417,0.417,0.834,0.712,0.209,0.133,0.113,0.068,0.141,0.464,3.
      {
        document.getElementById('click1').style.visibility = "visible";
        myInt = setInterval(function(){ animatearrow(); }, 500);
-       animateArrowATPosition(168,276,20,720);
+       animateArrowATPosition(208,280,20,720);
      },1000);
      document.getElementById("circle1").onclick=function() {step1_11();};
    }
@@ -477,7 +477,7 @@ var data6=[[1.565,0.417,0.417,0.834,0.712,0.209,0.133,0.113,0.068,0.141,0.464,3.
             setTimeout(function()
             {
             myInt = setInterval(function(){ animatearrow(); }, 500);
-            animateArrowATPosition(148,250,20,720);
+            animateArrowATPosition(185,257,20,720);
             document.getElementById("circle3").onclick=function() {
               myStopFunction();
               this.onclick = null;
@@ -491,7 +491,7 @@ var data6=[[1.565,0.417,0.417,0.834,0.712,0.209,0.133,0.113,0.068,0.141,0.464,3.
               document.getElementById('Sample0').style.visibility="hidden";
               document.getElementById('a01').style.display="none";
               myInt = setInterval(function(){ animatearrow(); }, 500);
-              animateArrowATPosition(162,215,20,720);
+              animateArrowATPosition(194,225,20,720);
               document.getElementById("speed1").onclick=function() {
               myStopFunction();
               this.onclick = null;
