@@ -51,7 +51,7 @@ v = Velocity of air        (m/s)</br>
 
 Substituting 
 
-V = formula to be displayed,we get <br>
+V = Q/A, we get <br>
 
 P<sub>shock</sub> = X𝜌V<sup>2</sup>/2 = X𝜌Q<sup>2</sup>/(2A<sup>2</sup>)     (Pa)</br>
 
